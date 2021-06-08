@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Tic Tac Toe](https://github.com/sanjoy9875/TicTacToe)**
+- 🔭 I’m currently learning on **Android Development**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
