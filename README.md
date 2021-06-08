@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently learning on **Android Development**
+- 🔭 I’m currently learning **Android Development**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
