@@ -25,7 +25,7 @@
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png" width="60" height="60"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" width="60" height="60"/> </a> 
-    <a href="https://git-scm.com/](https://developer.android.com/develop/ui/compose" target="_blank"> <img src="https://avatars.githubusercontent.com/u/71742764?s=200&v=4" width="60" height="60"/> </a> 
+    <a href="https://developer.android.com/courses/jetpack-compose/course" target="_blank"> <img src="https://avatars.githubusercontent.com/u/71742764?s=200&v=4" width="60" height="60"/> </a> 
    
 </p>
 
