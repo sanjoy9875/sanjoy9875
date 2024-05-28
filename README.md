@@ -6,9 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently learning **Android Development**
-
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🔭 I’m currently working as a **Software Engineer**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
